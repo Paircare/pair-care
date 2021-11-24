@@ -96,5 +96,41 @@ export default {
       When it comes to choosing the right options for your newborn, both baby wipes and otherwise, it pays to do your research. Keep in mind your baby’s individual needs like skin conditions, allergies, or other sensitivities.
       </p><p>What’s best for one baby may might not necessarily be best for another, and when it comes to something as delicate as baby wipes, you want to make sure you’re making a good choice, whether that means going with traditional baby wipes, cloth wipes, hypoallergenic wipes, or any other option available. Also - make sure to not fall for pleasant sounding words like ‘sensitive’ or ‘hypoallergenic’ since they don't mean baby wipes don’t contain toxic ingredients and always choose ‘fragrance-free’, not ‘unscented’ when buying baby wipes.</p>`
     },
+{
+      id: 6,
+      title: `Diaper Duty`,
+      img: `INSERT URL`,
+      category: `Potty training`,
+      time: `2 minutes`,
+      date: `Nov 2021`,
+      html: `While diapers are not the sexiest of items, we can guarantee that it is on your top five list of non-negotiable items but where does one begin? &nbsp;Are you an eco-warrior and plan to use reusable diapers? Would you rather not deal with the mess making you a fan of the disposables? Also don&rsquo;t forget trainers and swimmers!</p>
+<p>&nbsp;</p>
+<p>What are the right diapers for me?</p>
+<ul>
+<li>Do you want to limit the baby &ldquo;stuff&rdquo; you have? Are you comfortable with running the wash or cleaning more? Do you want to avoid single use products? If yes, you would be a fan of the reusable diaper.</li>
+<li>Do you prefer the</li>
+</ul>
+<p>Let&rsquo;s start with the basics.</p>
+<ul>
+<li><strong>How many diapers do I need</strong>? Newborns can have up to 4 bowel movements a day with other wettings in between. Expect to change your baby&rsquo;s diaper anywhere between 8-12 times a day.</li>
+<li><strong>Disposable diapers: what is the difference between newborn (N) and size 1</strong>? Diaper sizes will have a range based on the baby&rsquo;s weight. Newborn size, or size &ldquo;N,&rdquo; will typically be for newborns who are less than 10lbs. If you find that your baby is born on the higher weight range it may be best to jump straight into the size 1s. This will eliminate you are not left with too many N size diapers that you won&rsquo;t use.</li>
+<li><strong>Reusable diapers: what are the sizing considerations</strong>? There are many brands that have built their set of reusable diapers to grow with your child. Make sure the diaper is secured tight enough around the legs and stomach to avoid leaking</li>
+<li><strong>Disposable diaper 101:</strong>
+<ul>
+<li>If you are ever in between two sizes there usually is a number indicator on the diaper. May take a second to find but it&rsquo;s there.</li>
+<li>Tabs are the back of the diaper so you can pull and attach to the front</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Diaper accessories and the Pair Care recommendation:</p>
+<ul>
+<li>Diaper pail &ndash; Yes if you plan on only taking trash out once in a while, diapers can also be thrown in regular trash so long as you plan on removing frequently</li>
+<li>Changing dresser &ndash; We recommend getting a dresser and securing a changing pad on top</li>
+<li>Changing pad &ndash; Recommend any pad that is wipeable. It&rsquo;s a no fuss way to quickly clean what can become a messy situation regardless of using reusable or disposable</li>
+<li>Baby wipe warmer &ndash; Not a Pair Care essential. If you travel you don&rsquo;t want to have this be yet another item to bring on the road. Babies can get used to the coldness of the cloth. To also prevent some post diaper leakage place a baby cloth on the stomach while the diaper is on so that the baby can release any urine reacting from the cold wipe.</li>
+<li>Diaper organizer &ndash; Yes, anything that makes it easier to grab wipes, diapers and creams is a yes for us! Whether that is a caddy or organized compartments in a drawer it is highly recommended.</li>
+</ul>`
+},
   ]
 }
